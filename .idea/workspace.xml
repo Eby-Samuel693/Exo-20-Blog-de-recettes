@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="027303e6-8ece-4ea2-8a75-7a1062411611" name="Default Changelist" comment="gqsggd">
+      <change afterPath="$PROJECT_DIR$/MyCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recette 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/recette 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recette 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/recette 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recette 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/recette 3.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jaejAqEBkpHuwNaSLelght0xSG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="027303e6-8ece-4ea2-8a75-7a1062411611" name="Default Changelist" comment="" />
+      <created>1604046766465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604046766465</updated>
+      <workItem from="1604046770146" duration="1683000" />
+      <workItem from="1604048502084" duration="40000" />
+      <workItem from="1604048589846" duration="8343000" />
+      <workItem from="1604059499462" duration="3562000" />
+      <workItem from="1604063322476" duration="1753000" />
+      <workItem from="1604068011847" duration="11000" />
+      <workItem from="1604068963882" duration="2433000" />
+      <workItem from="1604075940258" duration="775000" />
+      <workItem from="1604159173424" duration="13000" />
+      <workItem from="1604160455702" duration="49000" />
+      <workItem from="1604305619925" duration="2388000" />
+      <workItem from="1604308296303" duration="16000" />
+    </task>
+    <task id="LOCAL-00001" summary="gq">
+      <created>1604059343941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604059343941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gqsg">
+      <created>1604061487466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604061487466</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gqsggd">
+      <created>1604065088658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604065088658</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gq" />
+    <MESSAGE value="gqsg" />
+    <MESSAGE value="gqsggd" />
+    <option name="LAST_COMMIT_MESSAGE" value="gqsggd" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1604065095193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1604065095193" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604307493741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1604307493741" />
+  </component>
+</project>

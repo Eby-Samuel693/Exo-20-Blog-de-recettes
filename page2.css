@@ -1,0 +1,41 @@
+html {
+    width: auto;
+}
+
+
+body {
+    background-color: blueviolet;
+}
+
+figcaption {
+    color: gold;
+}
+
+h2 {
+    font-family: monospace, SansSerif;
+    font-stype: italic;
+    background-color: darkred;
+}
+
+li {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    style :border aqua;
+    color: gold;
+}
+
+.2 {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    style :border aqua;
+}
+
+.pos{
+    float: right;
+    width: 100px;
+    margin: 0;
+}

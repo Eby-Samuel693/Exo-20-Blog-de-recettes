@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>crêpe</title>
+    <link rel="stylesheet" href="page2.css">
 </head>
 <body>
 
@@ -10,19 +11,38 @@
 
     <h2>A la Bretonnaise ^^</h2>
 
-    <img src="crepes-bretonnes-1-540x540.jpg" alt="">
 
-    <h2>ingrédients</h2>
+    <table border="1" class="pos">
 
-<div>
-        <ul>
-            <li>4 galettes bretonnes</li>
-            <li>100g de lardonsfumés</li>
-            <li>1 poignées de jaunes pousse d'épinard</li>
-            <li>5 cl de crême liquide</li>
-            <li>poivre</li>
-        </ul>
-</div>
+        <tr>
+            <th>dificulté :</th>
+            <th>moyen</th>
+        </tr>
+        <tr>
+            <th>preparation :</th>
+            <th>15 minutes</th>
+        </tr>
+
+    </table>
+
+
+        <img src="crepes-bretonnes-1-540x540.jpg" alt="">
+        <figcaption>La crêpe Bretonnes gourmande </figcaption>
+
+
+
+        <h2>ingrédients</h2>
+
+
+            <ul>
+                <li>4 galettes bretonnes</li>
+                <li>100g de lardonsfumés</li>
+                <li>1 poignées de jaunes pousse d'épinard</li>
+                <li>5 cl de crême liquide</li>
+                <li>poivre</li>
+            </ul>
+
+
 
     <h2>Préparation !</h2>
 
@@ -52,24 +72,29 @@
 
     <hr>
 
-    <label for="progress">barre de difficulté</label>
-    <progress id="progress" max="100" value="20">20%</progress>
+<div class="2">
 
-    <table >
+        <label for="progress">barre de difficulté</label>
+        <progress id="progress" max="100" value="20">20%</progress>
 
-        <tr>
-            <th>dificulté :</th>
-            <th>moyen</th>
-        </tr>
-        <tr>
-            <th>preparation :</th>
-            <th>15 minutes</th>
-        </tr>
+</div>
 
-    </table>
+
+<div>
+        <p>Cette recette vous a t-elle plu ?</p>
+
+        <label for="contactChoice1">oui</label>
+        <input type="radio" id="contactChoice1"
+               name="contact" value="oui">
+
+        <label for="contactChoice2">non</label>
+        <input type="radio" id="contactChoice2"
+               name="contact" value="non">
+</div>
 
     <a href="index.html">Menu</a>
     <br>
+    <a href="recette%201.html">retour</a>
     <a href="recette%203.html">suivant</a>
 
 </body>
